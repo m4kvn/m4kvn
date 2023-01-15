@@ -1,5 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4kvn&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href=#><img src="contributions.svg"></a>
+
 <!-- ### Hi there 👋 -->
 
 <!--
